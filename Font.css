@@ -1,7 +1,8 @@
 @font-face {
-    font-family: 'pixeloid_sansbold';
+    font-family: pixeloid_sansbold;
     src: url('/pixeloidsansbold-pknyd-webfont.woff2') format('woff2'),
          url('/pixeloidsansbold-pknyd-webfont.woff') format('woff');
+        url('/PixeloidSans-mLxMm.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
